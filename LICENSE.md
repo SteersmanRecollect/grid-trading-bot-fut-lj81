@@ -1,4 +1,4 @@
-# 
+# high-frequency grid trading bot for futures Plugin | scalping + price-monitoring offers the most advanced grid trading bot for futures, with scalping and price-monitoring. Ideal
 
 
 
